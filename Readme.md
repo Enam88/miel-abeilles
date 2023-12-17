@@ -10,7 +10,7 @@ The problem is inspired by the behavior of bees foraging for nectar in a field o
 
 1. **Clone the repository:**
 
-   git clone https://github.com/your-username/miel-abeilles.git
+   git clone https://github.com/Enam88/miel-abeilles
 
 2. **Navigate to the project directory:**
 
